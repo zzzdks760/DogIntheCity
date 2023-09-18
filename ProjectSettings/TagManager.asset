@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - food
+  - heart
+  - car
+  - apple
+  - banana
+  - park
+  - bread
+  - pepper
+  - leek
+  - melon
+  - cheese
+  - tomato
+  - asparagus
+  - garlic
+  - beef
+  - bone beef
+  - orange
+  - artichoke
+  - perry
+  - carots
+  - salad
+  - chicken
+  - streetfood
+  - LadderLandingPad
+  - Ladder
+  - burger
+  - hotdog
+  - FxTemporaire
+  - Effect
+  - waypoint
+  - man
+  - trash
+  - trashbox
+  - land
+  - trashbag
+  - badapple
+  - badbanana
+  - badartichoke
+  - badorange
+  - badtomato
+  - badfood
+  - market
+  - jumping
+  - Simple_Door
+  - home
+  - enemy
+  - trafficlights
+  - maps
+  - dog
+  - marketowner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Player2collider
+  - man
+  - pass
+  - food
+  - bitefood
+  - Enemy
+  - market
+  - trafficlight
+  - car
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
